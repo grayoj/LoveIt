@@ -42,10 +42,10 @@
     [params.header.title]
       # URL of the LOGO
       # LOGO 的 URL
-      logo = "https://i.ibb.co/zhwH2Tc/7e0cd014097697-5627d5f7bac0c.png"
+      logo = ""
       # title name
       # 标题名称
-      name = ""
+      name = "Gray Matter Blog"
       # you can add extra information before the name (HTML format is supported), such as icons
       # 你可以在名称 (允许 HTML 格式) 之前添加其他信息, 例如图标
       pre = ""
